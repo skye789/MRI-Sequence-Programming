@@ -5,6 +5,15 @@ Introduction
 ---
 The basics of MR sequence programming is introducted, such as FID, spin echo, and gradient echo are programmed in Python. In addition, the basic image reconstruction based on the simulated and recorded data is written and carried out in Python, including radial imaging and iterative reconstruction. The sequences are created in a format that can be interpreted directly by MR scanners (https://pulseq.github.io).
 
+The exercises are structured by sequence types:  
+P : python tutorial  
+A : basics and GRE  
+B : spin echo and RARE  
+C : stimulated echo  
+D : balanced SSFP  
+E : export to real system  
+F : undersampling and reconstruction  
+
 My topic
 ---
 Silent sequence with sin gradient
